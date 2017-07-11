@@ -1,3 +1,4 @@
+![travis-ci](https://travis-ci.org/Robert-G-J/Chatter.svg?branch=master)
 # Simplified chat bot with canned responses and admin editor interface
 
 ## User Stories
@@ -49,3 +50,5 @@ So that I can offer more questions
 * VCS: GIT
 
 ## Approach
+
+1. Feature test from a user's view towards the backend (outside in)
