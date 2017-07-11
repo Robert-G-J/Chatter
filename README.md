@@ -1,7 +1,7 @@
 # Simplified chat bot with canned responses and admin editor interface
 
 ## User Stories
-
+```
 As a student
 So that I can revise
 I want to see mathematics questions
@@ -25,9 +25,9 @@ So that I might improve.
 As a student,
 So that I don't get bored,
 I want the game to end and not continue indefinitely
-
+```
 ---
-
+```
 As the chatbot administrator
 I want to be able to log in securely
 So that I can control the chatbot
@@ -39,6 +39,7 @@ So that I can monitor efficacy
 As the chatbot adminstrator
 I want to add new chat routes
 So that I can offer more questions
+```
 
 ## Technologies
 
@@ -48,5 +49,3 @@ So that I can offer more questions
 * VCS: GIT
 
 ## Approach
-
-
