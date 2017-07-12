@@ -5,4 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-messages = Message.create([{content: "Message to bot"}, {content: "Another message to bot"}])
+Message.create([{content: "Let's talk surfing"}])
+Response.create([{content: "Do you like beaches?"}])

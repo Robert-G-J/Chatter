@@ -12,7 +12,6 @@
         1,
         null,
         null,
-        null,
         null
       ],
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/spec/rails_helper.rb": [
@@ -256,6 +255,13 @@
         null,
         null
       ],
+      "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/spec/factories/responses.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/config/routes.rb": [
         1,
         1,
@@ -275,13 +281,27 @@
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/app/controllers/messages_controller.rb": [
         1,
         1,
-        2,
+        3,
+        3,
         null,
         null
       ],
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/app/controllers/application_controller.rb": [
         1,
         1,
+        null
+      ],
+      "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/spec/features/user_can_submit_and_see_single_response_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/spec/features/user_sees_message_spec.rb": [
@@ -316,13 +336,27 @@
         1,
         null,
         1,
+        2,
         null
       ],
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/app/models/message.rb": [
         1,
+        1,
         null
       ],
       "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/spec/models/response_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        null
+      ],
+      "/Users/robertjones/Projects/tech_tests/stafford_long/Chatter/app/models/response.rb": [
         1,
         1,
         null
@@ -335,6 +369,6 @@
         null
       ]
     },
-    "timestamp": 1499861336
+    "timestamp": 1499884868
   }
 }
