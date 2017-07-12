@@ -1,0 +1,10 @@
+<html>
+  <body>
+    Message bot:
+    <ul>
+    <% @messages.each do |message| %>
+      <li><%= message.content %></li>
+    <% end %>
+    </ul>
+  </body>
+</html>
