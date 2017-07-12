@@ -1,0 +1,17 @@
+<html>
+  <body>
+    Message bot:
+    <ul>
+    <% @messages.each do |message| %>
+      <li><%= message.content %></li>
+    <% end %>
+  </ul>
+  <button type="button" name="button">Send</button>
+  <ul>
+    <% @responses.each do |response| %>
+    <li><%= response.content %></li>
+    <% end %>
+  </ul>
+  <p>Do you like beaches?</p>
+  </body>
+</html>
