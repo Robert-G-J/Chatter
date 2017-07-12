@@ -58,7 +58,7 @@ So that I can offer more questions
 ```
 ## Tree
 
-![tree](	https://s3.eu-west-2.amazonaws.com/ra-im/tree.png)
+![tree](./tree.png)
 
 
 ## Technologies
